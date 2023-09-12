@@ -1,0 +1,4 @@
+baseURL = ''
+languageCode = "ch-cn"
+title = "小蜘蛛的个人博客"
+theme = "hugo-PaperMod"
